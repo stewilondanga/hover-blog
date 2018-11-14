@@ -278,13 +278,11 @@ p {
   }
 }
 
-/*h1,
-h2,
-h3,
-blockquote {
+h1, h2, h3, blockquote {
   font-family: 'Georgia', serif;
 }
-h1 {
+
+/*h1 {
   margin: 0 auto;
   font-size: 3em;
   font-weight: 700;
