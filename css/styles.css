@@ -18,11 +18,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-@font-face {
+/*@font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 100;
