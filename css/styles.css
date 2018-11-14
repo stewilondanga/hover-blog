@@ -259,12 +259,13 @@ hr {
   margin: 1em auto;
 }
 
-/*@media all and (max-width: 768px) {
+@media all and (max-width: 768px) {
   hr {
     margin: 1em 0;
   }
 }
-p {
+
+/*p {
   font-size: 1em;
   font-weight: 400;
   font-style: normal;
