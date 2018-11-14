@@ -363,12 +363,13 @@ blockquote {
   }
 }
 
-/*blockquote:before {
+blockquote:before {
   content: "\201C\00a0";
   font-size: 1.5em;
   vertical-align: text-top;
 }
-blockquote:after {
+
+/*blockquote:after {
   content: "\00a0\201D";
   font-size: 1.5em;
   vertical-align: text-top;
