@@ -49,8 +49,10 @@ $(document).ready(function() {
     $(this).css('background-image', 'url(' + src + ')');
   });
 });
-/*
+
 $(window).on("scroll", function() {
-	var yScroll = $(this).scrollTop();
-	$(".plax").css({"background-position": '50% ' + ((yScroll / 10) + 0) + '%'});
+  var yScroll = $(this).scrollTop();
+  $(".plax").css({
+    "background-position": '50% ' + ((yScroll / 10) + 0) + '%'
+  });
 });
