@@ -196,7 +196,7 @@ article .insight {
   }
 }
 
-/*.content .content-feature {
+.content .content-feature {
   background-color: #eee;
   width: 100%;
   height: 400px;
@@ -204,7 +204,8 @@ article .insight {
   display: inline-block;
   position: relative;
 }
-.content .content-feature img {
+
+/*.content .content-feature img {
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
