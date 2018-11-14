@@ -133,13 +133,11 @@ article.B .content .content-body p:first-of-type:first-letter {
   font-family: "Comic Sans MS", ComicSansMS !important;
 }
 
-/*article.B h1,
-article.B h2,
-article.B h3,
-article.B blockquote {
+article.B h1, article.B h2, article.B h3, article.B blockquote {
   font-family: "Comic Sans MS", ComicSansMS !important;
 }
-article .insight {
+
+/*article .insight {
   border-radius: 100%;
   box-shadow: 0px 0px 0px 1px #000;
   width: 100px;
