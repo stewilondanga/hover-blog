@@ -11,10 +11,10 @@ function resize() {
   var actualInnerWidth = document.body.clientWidth;
   document.getElementById("B").style.width = actualInnerWidth + "px";
 }
-/*
+
 resize();
 window.onresize = function() {
-	resize();
+  resize();
 };
 
 /*** *** *** *** ***/
