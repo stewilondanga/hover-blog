@@ -7,13 +7,11 @@ var navigate = (function() {
   });
 })();
 
-//It's messy, don't look at it lol
-/*
 function resize() {
-	var actualInnerWidth = document.body.clientWidth;
-	document.getElementById("B").style.width = actualInnerWidth + "px";
+  var actualInnerWidth = document.body.clientWidth;
+  document.getElementById("B").style.width = actualInnerWidth + "px";
 }
-
+/*
 resize();
 window.onresize = function() {
 	resize();
