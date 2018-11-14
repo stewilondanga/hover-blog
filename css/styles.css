@@ -272,12 +272,13 @@ p {
   line-height: 1.375em;
 }
 
-/*@media all and (max-width: 768px) {
+@media all and (max-width: 768px) {
   p {
     line-height: 1.25em;
   }
 }
-h1,
+
+/*h1,
 h2,
 h3,
 blockquote {
