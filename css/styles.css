@@ -36,13 +36,14 @@ body {
   src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(https://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf) format('truetype');
 }
 
-/*@font-face {
+@font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 400;
   src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xIIzc.ttf) format('truetype');
 }
-@font-face {
+
+/*@font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 500;
