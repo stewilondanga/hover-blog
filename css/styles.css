@@ -121,14 +121,15 @@ article.A {
   position: relative;
 }
 
-/*article.B {
+article.B {
   background-color: #fff;
   position: relative;
   top: 0;
   left: 0;
   font-family: "Comic Sans MS", ComicSansMS !important;
 }
-article.B .content .content-body p:first-of-type:first-letter {
+
+/*article.B .content .content-body p:first-of-type:first-letter {
   font-family: "Comic Sans MS", ComicSansMS !important;
 }
 article.B h1,
