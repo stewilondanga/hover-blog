@@ -205,7 +205,7 @@ article .insight {
   position: relative;
 }
 
-/*.content .content-feature img {
+.content .content-feature img {
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -221,7 +221,8 @@ article .insight {
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
-@media all and (max-width: 768px) {
+
+/*@media all and (max-width: 768px) {
   .content .content-feature {
     height: 300px;
   }
