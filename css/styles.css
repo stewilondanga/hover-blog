@@ -375,11 +375,12 @@ blockquote:after {
   vertical-align: text-top;
 }
 
-/*ul {
+ul {
   line-height: 1.5em;
   list-style-type: circle;
 }
-ol {
+
+/*ol {
   list-style-type: square;
 }
 
