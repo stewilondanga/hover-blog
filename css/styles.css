@@ -113,14 +113,15 @@ body {
   font-style: normal;
 }
 
-/*article.A {
+article.A {
   background-color: #fff;
   width: 100%;
   overflow: hidden;
   margin: 0 auto;
   position: relative;
 }
-article.B {
+
+/*article.B {
   background-color: #fff;
   position: relative;
   top: 0;
