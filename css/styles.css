@@ -240,10 +240,11 @@ article .insight {
   column-gap: 40px;
 }
 
-/*.content .content-body p:first-of-type {
+.content .content-body p:first-of-type {
   margin-top: 0;
 }
-.content .content-body p:first-of-type:first-letter {
+
+/*.content .content-body p:first-of-type:first-letter {
   padding: 4px 8px 0px 3px;
   float: left;
   font-family: 'Georgia', serif;
