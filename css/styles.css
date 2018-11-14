@@ -231,7 +231,7 @@ article .insight {
   }
 }
 
-/*.content .content-body {
+.content .content-body {
   -webkit-columns: 340px 2;
   -moz-columns: 340px 2;
   columns: 340px 2;
@@ -239,7 +239,8 @@ article .insight {
   -moz-column-gap: 40px;
   column-gap: 40px;
 }
-.content .content-body p:first-of-type {
+
+/*.content .content-body p:first-of-type {
   margin-top: 0;
 }
 .content .content-body p:first-of-type:first-letter {
