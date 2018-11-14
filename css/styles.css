@@ -222,7 +222,7 @@ article .insight {
   transform: translate(-50%, -50%);
 }
 
-/*@media all and (max-width: 768px) {
+@media all and (max-width: 768px) {
   .content .content-feature {
     height: 300px;
   }
@@ -230,7 +230,8 @@ article .insight {
     padding: 150px 52.5%;
   }
 }
-.content .content-body {
+
+/*.content .content-body {
   -webkit-columns: 340px 2;
   -moz-columns: 340px 2;
   columns: 340px 2;
