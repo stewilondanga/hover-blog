@@ -380,11 +380,11 @@ ul {
   list-style-type: circle;
 }
 
-/*ol {
+ol {
   list-style-type: square;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
