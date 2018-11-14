@@ -318,13 +318,14 @@ h2 {
   }
 }
 
-/*@media all and (max-width: 768px) {
+@media all and (max-width: 768px) {
   h2 {
     font-size: 1.625em;
     line-height: 1.15384615em;
   }
 }
-h3 {
+
+/*h3 {
   margin: 1.5em auto 0.83em auto;
   font-size: 1.75em;
   font-weight: 700;
