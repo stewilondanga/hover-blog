@@ -297,13 +297,14 @@ h1 {
   }
 }
 
-/*@media all and (max-width: 768px) {
+@media all and (max-width: 768px) {
   h1 {
     font-size: 2em;
     line-height: 1.25em;
   }
 }
-h2 {
+
+/*h2 {
   margin: 0 auto;
   font-size: 2.25em;
   font-weight: 700;
