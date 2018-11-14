@@ -325,14 +325,15 @@ h2 {
   }
 }
 
-/*h3 {
+h3 {
   margin: 1.5em auto 0.83em auto;
   font-size: 1.75em;
   font-weight: 700;
   font-style: normal;
   line-height: 1.25em;
 }
-@media all and (max-width: 900px) {
+
+/*@media all and (max-width: 900px) {
   h3 {
     font-size: 1.5em;
   }
