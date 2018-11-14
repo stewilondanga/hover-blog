@@ -18,15 +18,27 @@ window.onresize = function() {
 };
 
 /*** *** *** *** ***/
-/*
-$('.A').mousemove(function(e){
-	var offs = $(this).offset(),
-			p    = {x:offs.left, y:offs.top},
-			mPos = {x:e.pageX, y:e.pageY},
-			x    = mPos.x - p.x - ($('.insight').width()/2),
-			y    = mPos.y - p.y - ($('.insight').height()/2);
-	$('.insight', this).css({left:x, top:y});
-	$('.B', this).css({left:-x, top:-y});
+
+$('.A').mousemove(function(e) {
+  var offs = $(this).offset(),
+    p = {
+      x: offs.left,
+      y: offs.top
+    },
+    mPos = {
+      x: e.pageX,
+      y: e.pageY
+    },
+    x = mPos.x - p.x - ($('.insight').width() / 2),
+    y = mPos.y - p.y - ($('.insight').height() / 2);
+  $('.insight', this).css({
+    left: x,
+    top: y
+  });
+  $('.B', this).css({
+    left: -x,
+    top: -y
+  });
 });
 
 /*** *** *** *** ***/
