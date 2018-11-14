@@ -186,10 +186,11 @@ article .insight {
   }
 }
 
-/*.content .content-head {
+.content .content-head {
   text-align: center;
 }
-@media all and (max-width: 768px) {
+
+/*@media all and (max-width: 768px) {
   .content .content-head {
     text-align: left;
   }
