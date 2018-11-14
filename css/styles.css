@@ -244,14 +244,15 @@ article .insight {
   margin-top: 0;
 }
 
-/*.content .content-body p:first-of-type:first-letter {
+.content .content-body p:first-of-type:first-letter {
   padding: 4px 8px 0px 3px;
   float: left;
   font-family: 'Georgia', serif;
   font-size: 75px;
   line-height: 60px;
 }
-hr {
+
+/*hr {
   border: 2px solid rgba(0, 0, 0, 0.8);
   width: 50%;
   height: 0px;
