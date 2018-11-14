@@ -137,7 +137,7 @@ article.B h1, article.B h2, article.B h3, article.B blockquote {
   font-family: "Comic Sans MS", ComicSansMS !important;
 }
 
-/*article .insight {
+article .insight {
   border-radius: 100%;
   box-shadow: 0px 0px 0px 1px #000;
   width: 100px;
@@ -148,7 +148,8 @@ article.B h1, article.B h2, article.B h3, article.B blockquote {
   left: 0;
   z-index: 9001;
 }
-.content {
+
+/*.content {
   border-left: 1px solid rgba(0, 0, 0, 0.25);
   border-right: 1px solid rgba(0, 0, 0, 0.25);
   width: calc(100% - 122px);
