@@ -43,13 +43,13 @@ $('.A').mousemove(function(e) {
 
 /*** *** *** *** ***/
 
-/*$(document).ready(function(){
-	$('img').each(function(){
-		var src = $(this).attr('src');
-		$(this).css('background-image', 'url(' + src + ')');
-	});
+$(document).ready(function() {
+  $('img').each(function() {
+    var src = $(this).attr('src');
+    $(this).css('background-image', 'url(' + src + ')');
+  });
 });
-
+/*
 $(window).on("scroll", function() {
 	var yScroll = $(this).scrollTop();
 	$(".plax").css({"background-position": '50% ' + ((yScroll / 10) + 0) + '%'});
